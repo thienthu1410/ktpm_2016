@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/GUI/RectangleView.java=UTF-8
+encoding//src/GUI/SquareView.java=UTF-8
+encoding//src/GUI/TriangleView.java=UTF-8
+encoding//src/languageSupport/EnglishTranslator.java=UTF-8
+encoding//src/languageSupport/VietnameseTranslator.java=UTF-8
+encoding//src/shape.triangle.state/TriangleEquilateral.java=UTF-8
+encoding//src/shape.triangle.state/TriangleNormal.java=UTF-8
+encoding//src/shape/shape/Rectangle.java=UTF-8
